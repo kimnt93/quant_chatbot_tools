@@ -1,4 +1,4 @@
-# Yahoo Finance Assistant
+# Quant Chatbot with Function Calling
 
 <div style="text-align: center;">
   <img src="im/8809337116958753029.gif" alt="Example" />
@@ -39,3 +39,6 @@ chainlit run main.py
 ## License
 
 This project is licensed under the MIT License
+
+## References
+You can find the original project at [Yahoo Finance Assistant](https://github.com/kimnt93/quantcb).
